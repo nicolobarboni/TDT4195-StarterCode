@@ -4,9 +4,9 @@ from utils import read_im, save_im
 output_dir = pathlib.Path("image_solutions")
 output_dir.mkdir(exist_ok=True)
 
-
 im = read_im(pathlib.Path("images", "lake.jpg"))
 plt.imshow(im)
+
 
 
 def greyscale(im):
@@ -18,6 +18,7 @@ def greyscale(im):
     Returns:
         im ([type]): [np.array of shape [H, W]]
     """
+
 
     return im
 
