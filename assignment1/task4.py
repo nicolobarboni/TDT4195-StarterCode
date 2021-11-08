@@ -6,7 +6,7 @@ import numpy as np
 import utils
 import dataloaders
 import torchvision
-from trainer import Trainer
+from assignment1.trainer import Trainer
 torch.random.manual_seed(0)
 np.random.seed(0)
 
@@ -16,6 +16,7 @@ batch_size = 64
 
 image_transform = torchvision.transforms.Compose([
     torchvision.transforms.ToTensor(),
+    torchvision.transforms.Normalize(0.5,0.5)
 ])
 
 dataloader_train, dataloader_test = dataloaders.load_dataset(
@@ -31,7 +32,9 @@ def create_model():
     """
     model = nn.Sequential(
         nn.Flatten(),  # Flattens the image from shape (batch_size, C, Height, width) to (batch_size, C*height*width)
-        nn.Linear(28*28*1, 10)
+        nn.Linear(28 * 28 * 1, 64),
+        nn.ReLU(),
+        nn.Linear(64, 10)
         # No need to include softmax, as this is already combined in the loss function
     )
     # Transfer model to GPU memory if a GPU is available
@@ -84,14 +87,19 @@ plt.ylim([0, 1])
 plt.legend()
 plt.xlabel("Global Training Step")
 plt.ylabel("Cross Entropy Loss")
-plt.savefig("image_solutions/task_4a.png")
+plt.savefig("image_solutions/task_4a_norm_hid.png")
 
 plt.show()
 
 torch.save(model.state_dict(), "saved_model.torch")
+torch.save(model, "saved_model2.torch")
 final_loss, final_acc = utils.compute_loss_and_accuracy(
     dataloader_test, model, loss_function)
 print(f"Final Test loss: {final_loss}. Final Test accuracy: {final_acc}")
+
+#Images of the weights
+
+weight = list(model.children())[1].weight.cpu().data
 
 
 # You can delete the remaining code of this notebook, as this is just to illustrate one method to solve the assignment tasks.

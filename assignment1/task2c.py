@@ -1,7 +1,7 @@
 import matplotlib.pyplot as plt
 import pathlib
 import numpy as np
-from utils import read_im, save_im, normalize
+from assignment1.utils import read_im, save_im, normalize
 output_dir = pathlib.Path("image_solutions")
 output_dir.mkdir(exist_ok=True)
 
@@ -21,6 +21,23 @@ def convolve_im(im, kernel,
     Returns:
         [type]: [np.array of shape [H, W, 3]. should be same as im]
     """
+
+    k = len(kernel)
+    num = int((k-1)/2) # It is the number of number associated
+    n_row = len(im)
+    n_col = len(im[0])
+    y = np.zeros((n_row, n_col, 3))
+
+    for c in range(0, 3):
+        for n in range(0,n_row):
+            for m in range(0, n_col):
+                for i in range(-num, num+1):
+                    for j in range(-num, num+1):
+                        if 0 < n - i < n_row and 0 < m - j < n_col:
+                            y[n, m, c] += kernel[i, j] * im[n-i, m-j, c]
+
+    im = normalize(y)
+
     assert len(im.shape) == 3
 
     return im
@@ -40,7 +57,6 @@ if __name__ == "__main__":
         [-2, 0, 2],
         [-1, 0, 1]
     ])
-
     # Convolve images
     im_smoothed = convolve_im(im.copy(), h_b)
     save_im(output_dir.joinpath("im_smoothed.jpg"), im_smoothed)

@@ -6,7 +6,7 @@ import numpy as np
 import utils
 import dataloaders
 import torchvision
-from trainer import Trainer
+from assignment2.trainer import Trainer
 torch.random.manual_seed(0)
 np.random.seed(0)
 
