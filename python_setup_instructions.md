@@ -18,6 +18,7 @@ Then, to activate and enter the environment, run
 source activate tdt4195
 ```
 
+
 To exit, you can simply close the window, or run
 
 ```bash
