@@ -3,6 +3,206 @@
   <component name="ChangeListManager">
     <list default="true" id="afef6698-5a3f-4228-bc1f-65011fb481a1" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assignment1/assignment_code.zip" beforeDir="false" afterPath="$PROJECT_DIR$/assignment1/assignment_code.zip" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assignment2/task2.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/assignment2/task2.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assignment2/task2.py" beforeDir="false" afterPath="$PROJECT_DIR$/assignment2/task2.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assignment2/task2c.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/assignment2/task2c.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assignment2/task2c.py" beforeDir="false" afterPath="$PROJECT_DIR$/assignment2/task2c.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assignment2/task4a.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/assignment2/task4a.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assignment2/task4a.py" beforeDir="false" afterPath="$PROJECT_DIR$/assignment2/task4a.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assignment2/task4b.py" beforeDir="false" afterPath="$PROJECT_DIR$/assignment2/task4b.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assignment2/task4c.py" beforeDir="false" afterPath="$PROJECT_DIR$/assignment2/task4c.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assignment2/task4d.py" beforeDir="false" afterPath="$PROJECT_DIR$/assignment2/task4d.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cluster_tutorial/cluster_info.md" beforeDir="false" afterPath="$PROJECT_DIR$/cluster_tutorial/cluster_info.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/jupyterlab-git-master/.all-contributorsrc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jupyterlab-git-master/.editorconfig" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jupyterlab-git-master/.eslintignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jupyterlab-git-master/.eslintrc.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jupyterlab-git-master/.git-blame-ignore-revs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jupyterlab-git-master/.github/ISSUE_TEMPLATE/bug_report.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jupyterlab-git-master/.github/ISSUE_TEMPLATE/feature_request.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jupyterlab-git-master/.github/workflows/binder-on-pr.yaml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jupyterlab-git-master/.github/workflows/build.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jupyterlab-git-master/.github/workflows/publish.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jupyterlab-git-master/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jupyterlab-git-master/.pre-commit-config.yaml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jupyterlab-git-master/.prettierignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jupyterlab-git-master/.prettierrc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jupyterlab-git-master/CONTRIBUTING.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jupyterlab-git-master/Design.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jupyterlab-git-master/LICENSE" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jupyterlab-git-master/MANIFEST.in" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jupyterlab-git-master/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jupyterlab-git-master/babel.config.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jupyterlab-git-master/binder/environment.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jupyterlab-git-master/binder/postBuild" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jupyterlab-git-master/conftest.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jupyterlab-git-master/docs/figs/preview.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jupyterlab-git-master/examples/demo.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jupyterlab-git-master/examples/demo.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jupyterlab-git-master/install.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jupyterlab-git-master/jest.config.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jupyterlab-git-master/jupyter-config/jupyter_notebook_config.d/jupyterlab_git.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jupyterlab-git-master/jupyter-config/jupyter_server_config.d/jupyterlab_git.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jupyterlab-git-master/jupyterlab_git/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jupyterlab-git-master/jupyterlab_git/_version.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jupyterlab-git-master/jupyterlab_git/git.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jupyterlab-git-master/jupyterlab_git/handlers.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jupyterlab-git-master/jupyterlab_git/log.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jupyterlab-git-master/jupyterlab_git/tests/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jupyterlab-git-master/jupyterlab_git/tests/conftest.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jupyterlab-git-master/jupyterlab_git/tests/files/inline-conflict--1.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jupyterlab-git-master/jupyterlab_git/tests/files/inline-conflict--2.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jupyterlab-git-master/jupyterlab_git/tests/files/inline-conflict--3.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jupyterlab-git-master/jupyterlab_git/tests/files/multilevel-test-base.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jupyterlab-git-master/jupyterlab_git/tests/files/multilevel-test-local.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jupyterlab-git-master/jupyterlab_git/tests/files/multilevel-test-remote.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jupyterlab-git-master/jupyterlab_git/tests/files/src-and-output--1.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jupyterlab-git-master/jupyterlab_git/tests/files/src-and-output--2.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jupyterlab-git-master/jupyterlab_git/tests/samples/ipynb_base.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jupyterlab-git-master/jupyterlab_git/tests/samples/ipynb_nbdiff.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jupyterlab-git-master/jupyterlab_git/tests/samples/ipynb_remote.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jupyterlab-git-master/jupyterlab_git/tests/test_branch.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jupyterlab-git-master/jupyterlab_git/tests/test_clone.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jupyterlab-git-master/jupyterlab_git/tests/test_config.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jupyterlab-git-master/jupyterlab_git/tests/test_detailed_log.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jupyterlab-git-master/jupyterlab_git/tests/test_diff.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jupyterlab-git-master/jupyterlab_git/tests/test_execute.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jupyterlab-git-master/jupyterlab_git/tests/test_handlers.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jupyterlab-git-master/jupyterlab_git/tests/test_hybridcontents.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jupyterlab-git-master/jupyterlab_git/tests/test_ignore.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jupyterlab-git-master/jupyterlab_git/tests/test_init.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jupyterlab-git-master/jupyterlab_git/tests/test_integrations.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jupyterlab-git-master/jupyterlab_git/tests/test_pushpull.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jupyterlab-git-master/jupyterlab_git/tests/test_remote.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jupyterlab-git-master/jupyterlab_git/tests/test_settings.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jupyterlab-git-master/jupyterlab_git/tests/test_single_file_log.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jupyterlab-git-master/jupyterlab_git/tests/test_status.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jupyterlab-git-master/jupyterlab_git/tests/test_tag.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jupyterlab-git-master/jupyterlab_git/tests/testutils.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jupyterlab-git-master/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jupyterlab-git-master/pyproject.toml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jupyterlab-git-master/schema/plugin.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jupyterlab-git-master/setup.cfg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jupyterlab-git-master/setup.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jupyterlab-git-master/specification/Git_REST_API.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jupyterlab-git-master/src/commandsAndMenu.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jupyterlab-git-master/src/components/ActionButton.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jupyterlab-git-master/src/components/Alert.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jupyterlab-git-master/src/components/BranchMenu.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jupyterlab-git-master/src/components/CommitBox.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jupyterlab-git-master/src/components/CommitMessage.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jupyterlab-git-master/src/components/Feedback.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jupyterlab-git-master/src/components/FileItem.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jupyterlab-git-master/src/components/FileList.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jupyterlab-git-master/src/components/FilePath.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jupyterlab-git-master/src/components/GitPanel.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jupyterlab-git-master/src/components/GitStage.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jupyterlab-git-master/src/components/HistorySideBar.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jupyterlab-git-master/src/components/MergeBranchDialog.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jupyterlab-git-master/src/components/NewBranchDialog.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jupyterlab-git-master/src/components/PastCommitNode.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jupyterlab-git-master/src/components/ResetRevertDialog.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jupyterlab-git-master/src/components/SinglePastCommitInfo.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jupyterlab-git-master/src/components/StatusWidget.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jupyterlab-git-master/src/components/SuspendModal.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jupyterlab-git-master/src/components/TagMenu.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jupyterlab-git-master/src/components/Toolbar.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jupyterlab-git-master/src/components/diff/NotebookDiff.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jupyterlab-git-master/src/components/diff/PlainTextDiff.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jupyterlab-git-master/src/components/diff/mergeview.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jupyterlab-git-master/src/components/diff/model.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jupyterlab-git-master/src/git.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jupyterlab-git-master/src/index.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jupyterlab-git-master/src/logger.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jupyterlab-git-master/src/model.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jupyterlab-git-master/src/server.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jupyterlab-git-master/src/style/ActionButtonStyle.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jupyterlab-git-master/src/style/BranchMenu.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jupyterlab-git-master/src/style/CommitBox.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jupyterlab-git-master/src/style/FileItemStyle.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jupyterlab-git-master/src/style/FileListStyle.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jupyterlab-git-master/src/style/FilePathStyle.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jupyterlab-git-master/src/style/GitPanel.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jupyterlab-git-master/src/style/GitStageStyle.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jupyterlab-git-master/src/style/GitWidgetStyle.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jupyterlab-git-master/src/style/HistorySideBarStyle.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jupyterlab-git-master/src/style/NewBranchDialog.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jupyterlab-git-master/src/style/PastCommitNode.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jupyterlab-git-master/src/style/ResetRevertDialog.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jupyterlab-git-master/src/style/SinglePastCommitInfo.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jupyterlab-git-master/src/style/StatusWidget.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jupyterlab-git-master/src/style/SuspendModal.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jupyterlab-git-master/src/style/Toolbar.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jupyterlab-git-master/src/style/common.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jupyterlab-git-master/src/style/icons.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jupyterlab-git-master/src/svg.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jupyterlab-git-master/src/taskhandler.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jupyterlab-git-master/src/tokens.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jupyterlab-git-master/src/utils.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jupyterlab-git-master/src/widgets/AuthorBox.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jupyterlab-git-master/src/widgets/CredentialsBox.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jupyterlab-git-master/src/widgets/GitCloneForm.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jupyterlab-git-master/src/widgets/GitWidget.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jupyterlab-git-master/src/widgets/gitClone.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jupyterlab-git-master/style/base.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jupyterlab-git-master/style/diff-common.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jupyterlab-git-master/style/diff-nb.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jupyterlab-git-master/style/diff-text.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jupyterlab-git-master/style/icons/add.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jupyterlab-git-master/style/icons/branch.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jupyterlab-git-master/style/icons/clock.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jupyterlab-git-master/style/icons/clone.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jupyterlab-git-master/style/icons/deletions.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jupyterlab-git-master/style/icons/desktop.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jupyterlab-git-master/style/icons/diff.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jupyterlab-git-master/style/icons/discard.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jupyterlab-git-master/style/icons/git.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jupyterlab-git-master/style/icons/insertions.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jupyterlab-git-master/style/icons/merge.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jupyterlab-git-master/style/icons/open-file.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jupyterlab-git-master/style/icons/plus.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jupyterlab-git-master/style/icons/pull.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jupyterlab-git-master/style/icons/push.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jupyterlab-git-master/style/icons/remove.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jupyterlab-git-master/style/icons/rewind.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jupyterlab-git-master/style/icons/tag.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jupyterlab-git-master/style/icons/trash.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jupyterlab-git-master/style/icons/vertical-more.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jupyterlab-git-master/style/index.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jupyterlab-git-master/style/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jupyterlab-git-master/style/variables.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jupyterlab-git-master/tests/commands.spec.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jupyterlab-git-master/tests/model.spec.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jupyterlab-git-master/tests/plugin.spec.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jupyterlab-git-master/tests/test-components/BranchMenu.spec.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jupyterlab-git-master/tests/test-components/CommitBox.spec.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jupyterlab-git-master/tests/test-components/CommitMessage.spec.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jupyterlab-git-master/tests/test-components/DiffModel.spec.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jupyterlab-git-master/tests/test-components/FileItem.spec.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jupyterlab-git-master/tests/test-components/GitPanel.spec.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jupyterlab-git-master/tests/test-components/HistorySideBar.spec.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jupyterlab-git-master/tests/test-components/NotebookDiff.spec.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jupyterlab-git-master/tests/test-components/PastCommitNode.spec.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jupyterlab-git-master/tests/test-components/PlainTextDiff.spec.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jupyterlab-git-master/tests/test-components/Toolbar.spec.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jupyterlab-git-master/tests/test-components/data/nbDiffResponse.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jupyterlab-git-master/tests/utils.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jupyterlab-git-master/testutils/jest-file-mock.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jupyterlab-git-master/testutils/jest-setup-files.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jupyterlab-git-master/tsconfig.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jupyterlab-git-master/ui-tests/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jupyterlab-git-master/ui-tests/docker/Dockerfile" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jupyterlab-git-master/ui-tests/docker/data/merge-conflict-example.tar.gz" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jupyterlab-git-master/ui-tests/docker/docker-compose.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jupyterlab-git-master/ui-tests/docker/prepare.sh" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jupyterlab-git-master/ui-tests/docker/wait-for-it.sh" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jupyterlab-git-master/ui-tests/jupyter_server_config.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jupyterlab-git-master/ui-tests/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jupyterlab-git-master/ui-tests/playwright.config.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jupyterlab-git-master/ui-tests/tests/merge-conflict.spec.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jupyterlab-git-master/ui-tests/yarn.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jupyterlab-git-master/yarn.lock" beforeDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -13,12 +213,78 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/assignment2/task2.py">
+        <entry file="file://$PROJECT_DIR$/assignment2/task4b.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="458">
-              <caret line="53" column="22" lean-forward="true" selection-start-line="28" selection-end-line="53" selection-end-column="22" />
+            <state relative-caret-position="-238">
+              <caret line="40" column="68" selection-start-line="40" selection-start-column="8" selection-end-line="40" selection-end-column="68" />
               <folding>
-                <element signature="e#0#12#0" expanded="true" />
+                <element signature="e#0#31#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/assignment2/task4c.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="720">
+              <caret line="48" lean-forward="true" selection-start-line="48" selection-end-line="48" />
+              <folding>
+                <element signature="e#0#14#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/assignment2/task4d.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="480">
+              <caret line="32" lean-forward="true" selection-start-line="32" selection-end-line="32" />
+              <folding>
+                <element signature="e#0#14#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/assignment2/task2c.ipynb">
+          <provider selected="true" editor-type-id="ipnb-editor">
+            <state>
+              <selected id="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/assignment2/task4a.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="137">
+              <caret line="49" lean-forward="true" selection-start-line="49" selection-end-line="49" />
+              <folding>
+                <element signature="e#0#31#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/assignment2/task2c.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="452">
+              <caret line="87" column="26" selection-start-line="87" selection-start-column="26" selection-end-line="87" selection-end-column="26" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/assignment2/create_submission_zip.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="30">
+              <caret line="2" selection-start-line="2" selection-end-line="2" />
+              <folding>
+                <element signature="e#0#9#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -28,16 +294,16 @@
         <entry file="file://$PROJECT_DIR$/assignment2/task2.ipynb">
           <provider selected="true" editor-type-id="ipnb-editor">
             <state>
-              <selected id="2" />
+              <selected id="6" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/assignment2/utils.py">
+        <entry file="file://$PROJECT_DIR$/assignment2/task2.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-1775">
-              <caret line="65" column="37" selection-start-line="65" selection-start-column="37" selection-end-line="65" selection-end-column="37" />
+            <state relative-caret-position="-73">
+              <caret line="69" lean-forward="true" selection-start-line="69" selection-end-line="69" />
               <folding>
                 <element signature="e#0#12#0" expanded="true" />
               </folding>
@@ -46,25 +312,13 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/python_setup_instructions.md">
-          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-            <state split_layout="SPLIT">
-              <first_editor relative-caret-position="270">
-                <caret line="18" selection-start-line="18" selection-end-line="19" />
-              </first_editor>
-              <second_editor />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/cluster_tutorial/cluster_info.md">
-          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-            <state split_layout="SPLIT">
-              <first_editor relative-caret-position="383">
-                <caret line="30" selection-start-line="30" selection-end-line="31" />
-              </first_editor>
-              <second_editor />
+        <entry file="file://$PROJECT_DIR$/assignment2/utils.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="2355">
+              <caret line="167" column="3" selection-start-line="167" selection-start-column="3" selection-end-line="167" selection-end-column="3" />
+              <folding>
+                <element signature="e#0#12#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -97,9 +351,17 @@
         <option value="$PROJECT_DIR$/assignment1/task4b.py" />
         <option value="$PROJECT_DIR$/assignment1/task4.py" />
         <option value="$PROJECT_DIR$/assignment1/create_submission_zip.py" />
-        <option value="$PROJECT_DIR$/assignment2/utils.py" />
-        <option value="$PROJECT_DIR$/assignment2/task2.py" />
         <option value="$PROJECT_DIR$/assignment2/task2.ipynb" />
+        <option value="$PROJECT_DIR$/cluster_tutorial/cluster_info.md" />
+        <option value="$PROJECT_DIR$/assignment2/task4a.py" />
+        <option value="$PROJECT_DIR$/assignment2/task4b.py" />
+        <option value="$PROJECT_DIR$/assignment2/task4c.py" />
+        <option value="$PROJECT_DIR$/assignment2/utils.py" />
+        <option value="$PROJECT_DIR$/assignment2/task4d.py" />
+        <option value="$PROJECT_DIR$/assignment2/task2.py" />
+        <option value="$PROJECT_DIR$/assignment2/task2c.ipynb" />
+        <option value="$PROJECT_DIR$/assignment2/task2c.py" />
+        <option value="$PROJECT_DIR$/assignment2/create_submission_zip.py" />
       </list>
     </option>
   </component>
@@ -149,7 +411,7 @@
   </component>
   <component name="PropertiesComponent">
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
-    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+    <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors.General" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -163,7 +425,41 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.task2">
+  <component name="RunManager" selected="Python.create_submission_zip2">
+    <configuration name="TDT4195-StarterCode" type="JupiterNotebook" factoryName="Jupyter Notebook">
+      <module name="TDT4195-StarterCode" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="additionalOptions" value="" />
+      <option name="ipnbHost" value="127.0.0.1" />
+      <option name="ipnbPort" value="8888" />
+      <method v="2" />
+    </configuration>
+    <configuration name="assignment2" type="JupiterNotebook" factoryName="Jupyter Notebook">
+      <module name="TDT4195-StarterCode" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="$USER_HOME$/opt/anaconda3/envs/tdt4195/bin/python" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/assignment2" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="additionalOptions" value="" />
+      <option name="ipnbHost" value="127.0.0.1" />
+      <option name="ipnbPort" value="8888" />
+      <method v="2" />
+    </configuration>
     <configuration name="create_submission_zip" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
       <module name="TDT4195-StarterCode" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -172,11 +468,32 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="$USER_HOME$/opt/anaconda3/envs/tdt4195/bin/python" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/assignment1" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/assignment2" />
       <option name="IS_MODULE_SDK" value="false" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/assignment1/create_submission_zip.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/assignment2/create_submission_zip.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="create_submission_zip2" type="PythonConfigurationType" factoryName="Python">
+      <module name="TDT4195-StarterCode" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="$USER_HOME$/opt/anaconda3/envs/tdt4195/bin/python" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/assignment2" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/assignment2/create_submission_zip.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -248,6 +565,27 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="task2c_2" type="PythonConfigurationType" factoryName="Python">
+      <module name="TDT4195-StarterCode" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="$USER_HOME$/opt/anaconda3/envs/tdt4195/bin/python" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/assignment2" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/assignment2/task2c.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration name="task4" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
       <module name="TDT4195-StarterCode" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -261,6 +599,27 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/assignment1/task4.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="task4a" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
+      <module name="TDT4195-StarterCode" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="$USER_HOME$/opt/anaconda3/envs/tdt4195/bin/python" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/assignment2" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/assignment2/task4a.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -290,13 +649,84 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="task4b2" type="PythonConfigurationType" factoryName="Python">
+      <module name="TDT4195-StarterCode" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="$USER_HOME$/opt/anaconda3/envs/tdt4195/bin/python" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/assignment2" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/assignment2/task4b.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="task4c" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
+      <module name="TDT4195-StarterCode" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="$USER_HOME$/opt/anaconda3/envs/tdt4195/bin/python" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/assignment2" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/assignment2/task4c.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="task4d" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
+      <module name="TDT4195-StarterCode" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="$USER_HOME$/opt/anaconda3/envs/tdt4195/bin/python" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/assignment2" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/assignment2/task4d.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <list>
-      <item itemvalue="Python.task4" />
+      <item itemvalue="Jupyter Notebook.TDT4195-StarterCode" />
+      <item itemvalue="Jupyter Notebook.assignment2" />
       <item itemvalue="Python.create_submission_zip" />
+      <item itemvalue="Python.task4a" />
+      <item itemvalue="Python.task4b2" />
+      <item itemvalue="Python.task4c" />
+      <item itemvalue="Python.task4d" />
+      <item itemvalue="Python.create_submission_zip2" />
       <item itemvalue="Python.task2" />
-      <item itemvalue="Python.task4b" />
       <item itemvalue="Python.task2ab" />
       <item itemvalue="Python.task2c" />
+      <item itemvalue="Python.task2c_2" />
+      <item itemvalue="Python.task4" />
+      <item itemvalue="Python.task4b" />
     </list>
   </component>
   <component name="SvnConfiguration">
@@ -330,109 +760,32 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="25" width="1440" height="875" extended-state="6" />
-    <editor active="true" />
+    <frame x="0" y="25" width="1440" height="875" extended-state="0" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.21634954" />
-      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.4968017" visible="true" weight="0.17547569" />
+      <window_info id="Structure" order="1" sideWeight="0.50319827" side_tool="true" weight="0.21634954" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49682876" weight="0.32947233" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49682876" weight="0.22265123" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.38223937" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" weight="0.32947233" />
       <window_info anchor="bottom" id="Version Control" order="7" weight="0.32947233" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="8" sideWeight="0.49612403" visible="true" weight="0.3063063" />
+      <window_info anchor="bottom" id="Terminal" order="8" sideWeight="0.49612403" weight="0.3963964" />
       <window_info anchor="bottom" id="Event Log" order="9" sideWeight="0.50317127" side_tool="true" weight="0.31145433" />
       <window_info anchor="bottom" id="Python Console" order="10" weight="0.32947233" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
     </layout>
-    <layout-to-restore>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.21634954" />
-      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info id="Favorites" order="2" side_tool="true" />
-      <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49682876" weight="0.32947233" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.38223937" />
-      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
-      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
-      <window_info anchor="bottom" id="TODO" order="6" weight="0.32947233" />
-      <window_info anchor="bottom" id="Version Control" order="7" weight="0.32947233" />
-      <window_info anchor="bottom" id="Terminal" order="8" sideWeight="0.49612403" visible="true" weight="0.3063063" />
-      <window_info anchor="bottom" id="Event Log" order="9" sideWeight="0.50317127" side_tool="true" weight="0.31145433" />
-      <window_info anchor="bottom" id="Python Console" order="10" weight="0.32947233" />
-      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
-      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
-      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
-    </layout-to-restore>
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="change" />
     <option name="LAST_COMMIT_MESSAGE" value="change" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/README.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor />
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$APPLICATION_HOME_DIR$/helpers/pydev/pydevd.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="144">
-          <caret line="1134" selection-start-line="1134" selection-end-line="1134" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$APPLICATION_HOME_DIR$/helpers/pydev/_pydev_imps/_pydev_execfile.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="17" selection-start-line="17" selection-end-line="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file:///Library/Frameworks/Python.framework/Versions/3.7/lib/python3.7/site-packages/PIL/Image.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="264">
-          <caret line="3023" selection-start-line="3023" selection-end-line="3023" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file:///Library/Frameworks/Python.framework/Versions/3.7/lib/python3.7/site-packages/matplotlib/image.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="189">
-          <caret line="1503" selection-start-line="1503" selection-end-line="1503" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file:///Library/Frameworks/Python.framework/Versions/3.7/lib/python3.7/pathlib.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="189">
-          <caret line="775" selection-start-line="775" selection-end-line="775" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file:///Library/Frameworks/Python.framework/Versions/3.7/lib/python3.7/codecs.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="144">
-          <caret line="320" selection-start-line="320" selection-end-line="320" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/assignment1/image_solutions/lake_greyscale2.jpg" />
-    <entry file="file://$PROJECT_DIR$/assignment1/image_solutions/lake_inverse.jpg">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/assignment1/image_solutions/im_sobel.jpg">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
     <entry file="file://$PROJECT_DIR$/assignment1/images/lake.jpg">
       <provider selected="true" editor-type-id="images" />
     </entry>
@@ -504,9 +857,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/assignment1/image_solutions/weights_0.jpg">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
     <entry file="file://$PROJECT_DIR$/assignment1/image_solutions/weights_4.jpg">
       <provider selected="true" editor-type-id="images" />
     </entry>
@@ -534,16 +884,6 @@
     <entry file="file://$PROJECT_DIR$/assignment1/image_solutions/weights_9.jpg">
       <provider selected="true" editor-type-id="images" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/assignment1/task4b.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="285">
-          <caret line="19" column="73" selection-start-line="19" selection-start-column="73" selection-end-line="19" selection-end-column="73" />
-          <folding>
-            <element signature="e#0#12#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/assignment1/image_solutions/task_4a_2.png">
       <provider selected="true" editor-type-id="images" />
     </entry>
@@ -561,18 +901,6 @@
             <element signature="e#0#9#0" expanded="true" />
           </folding>
         </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/assignment2/task2c.ipynb">
-      <provider selected="true" editor-type-id="ipnb-editor">
-        <state>
-          <selected id="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/assignment2/task2c.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-525" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/assignment1/task2ab.py">
@@ -598,16 +926,6 @@
     <entry file="file://$PROJECT_DIR$/assignment2/dataloaders.py">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/assignment2/utils.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-1775">
-          <caret line="65" column="37" selection-start-line="65" selection-start-column="37" selection-end-line="65" selection-end-column="37" />
-          <folding>
-            <element signature="e#0#12#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/assignment2/trainer.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="145">
@@ -615,23 +933,17 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/assignment2/task2.ipynb">
-      <provider selected="true" editor-type-id="ipnb-editor">
-        <state>
-          <selected id="2" />
+    <entry file="file://$PROJECT_DIR$/cluster_tutorial/cluster_info.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="188">
+            <caret line="17" selection-start-line="17" selection-end-line="18" />
+          </first_editor>
+          <second_editor />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/assignment2/task2.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="458">
-          <caret line="53" column="22" lean-forward="true" selection-start-line="28" selection-end-line="53" selection-end-column="22" />
-          <folding>
-            <element signature="e#0#12#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$USER_HOME$/Library/Jupyter/runtime/nbserver-99038-open.html" />
     <entry file="file://$PROJECT_DIR$/python_setup_instructions.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
@@ -642,15 +954,143 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/cluster_tutorial/cluster_info.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="383">
-            <caret line="30" selection-start-line="30" selection-end-line="31" />
-          </first_editor>
-          <second_editor />
+    <entry file="file://$PROJECT_DIR$/assignment1/image_solutions/weights_0.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assignment2/image_processed/task2a_plot.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assignment2/image_processed/.ipynb_checkpoints/task2a_plot-checkpoint.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assignment2/image_processed/task2a_plot_Adam.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assignment1/task4b.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" column="14" selection-start-line="2" selection-end-line="2" selection-end-column="14" />
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/assignment2/task4a.ipynb">
+      <provider selected="true" editor-type-id="ipnb-editor">
+        <state>
+          <selected id="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assignment2/images/page2.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assignment2/images/page1.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assignment2/utils.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2355">
+          <caret line="167" column="3" selection-start-line="167" selection-start-column="3" selection-end-line="167" selection-end-column="3" />
+          <folding>
+            <element signature="e#0#12#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assignment2/task2.ipynb">
+      <provider selected="true" editor-type-id="ipnb-editor">
+        <state>
+          <selected id="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assignment2/task2.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-73">
+          <caret line="69" lean-forward="true" selection-start-line="69" selection-end-line="69" />
+          <folding>
+            <element signature="e#0#12#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assignment2/task2c.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="452">
+          <caret line="87" column="26" selection-start-line="87" selection-start-column="26" selection-end-line="87" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assignment2/task2c.ipynb">
+      <provider selected="true" editor-type-id="ipnb-editor">
+        <state>
+          <selected id="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assignment2/task4a.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="137">
+          <caret line="49" lean-forward="true" selection-start-line="49" selection-end-line="49" />
+          <folding>
+            <element signature="e#0#31#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assignment2/task4b.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-238">
+          <caret line="40" column="68" selection-start-line="40" selection-start-column="8" selection-end-line="40" selection-end-column="68" />
+          <folding>
+            <element signature="e#0#31#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assignment2/task4c.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="720">
+          <caret line="48" lean-forward="true" selection-start-line="48" selection-end-line="48" />
+          <folding>
+            <element signature="e#0#14#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assignment2/task4d.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="480">
+          <caret line="32" lean-forward="true" selection-start-line="32" selection-end-line="32" />
+          <folding>
+            <element signature="e#0#14#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assignment2/create_submission_zip.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" selection-start-line="2" selection-end-line="2" />
+          <folding>
+            <element signature="e#0#9#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ScopeChooserConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
   </component>
 </project>

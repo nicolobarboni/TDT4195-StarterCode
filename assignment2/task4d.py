@@ -27,7 +27,17 @@ def create_binary_image(im):
     """
 
     # START YOUR CODE HERE ### (You can change anything inside this block)
-    binary_im = np.zeros_like(im, dtype=np.bool)
+    F = np.fft.fft2(im)
+    binary_im = np.log(abs(np.fft.fftshift(F)) + 1)
+    binary_im = utils.normalize(binary_im)
+
+
+    binary_im = np.where(binary_im < 0.45, binary_im, 1)
+    binary_im = np.where(binary_im >= 0.45, binary_im, 0)
+
+    binary_im = binary_im.astype(bool)
+
+    #binary_im = np.bool(binary_im)
     ### END YOUR CODE HERE ###
     return binary_im
 

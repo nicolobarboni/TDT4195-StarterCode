@@ -62,8 +62,9 @@ expected_shape = (batch_size, 10)  # 10 since mnist has 10 different classes
 assert output.shape == expected_shape,    f"Expected shape: {expected_shape}, but got: {output.shape}"
 
 
+
 # Hyperparameters
-learning_rate = .02
+learning_rate = .001
 num_epochs = 5
 
 
@@ -71,7 +72,7 @@ num_epochs = 5
 loss_function = torch.nn.CrossEntropyLoss()
 
 # Define optimizer (Stochastic Gradient Descent)
-optimizer = torch.optim.SGD(model.parameters(),
+optimizer = torch.optim.Adam(model.parameters(),
                             lr=learning_rate)
 
 

@@ -1,6 +1,6 @@
 import matplotlib.pyplot as plt
 import numpy as np
-import skimage
+import skimage.data
 import utils
 
 
@@ -21,7 +21,11 @@ def convolve_im(im: np.array,
         im: np.array of shape [H, W]
     """
     # START YOUR CODE HERE ### (You can change anything inside this block)
-    conv_result = im
+    F = np.fft.fft2(im)
+    H = fft_kernel
+    G = F*H
+    conv_result = np.fft.ifft2(G).real
+
     if verbose:
         # Use plt.subplot to place two or more images beside eachother
         plt.figure(figsize=(20, 4))
@@ -30,10 +34,13 @@ def convolve_im(im: np.array,
         plt.imshow(im, cmap="gray")
         plt.subplot(1, 5, 2)
         # Visualize FFT
+        plt.imshow(np.log(abs(np.fft.fftshift(F))+1), cmap="gray")
         plt.subplot(1, 5, 3)
         # Visualize FFT kernel
+        plt.imshow(np.log(abs(np.fft.fftshift(H))+1), cmap="gray")
         plt.subplot(1, 5, 4)
         # Visualize filtered FFT image
+        plt.imshow(np.log(abs(np.fft.fftshift(G))+1), cmap="gray")
         plt.subplot(1, 5, 5)
         # Visualize filtered spatial image
         plt.imshow(conv_result, cmap="gray")

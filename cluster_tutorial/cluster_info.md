@@ -30,8 +30,6 @@ The system is only accessible from an NTNU IP address, so you will have to use V
 6. When you are done, **please stop your container** with `tdocker kill` (otuside the container), or type `exit` if you are inside the container. This will dellocate the resources that you reserved, and other users can use it!
 
 
-
-
 ## Time limitations
 Since there are a lot more students than there are available GPUs, you are only able to reserve a GPU for a set amount of time, which will change according to the time of day.
 -  `tstat`: Issuing the command `tstat` will display the status of the system, and if you request a reservation when no GPUs are available, you will be put into a **queue** (look into screen/tmux if you want to close your terminal window while waiting).
