@@ -12,8 +12,10 @@ def remove_noise(im: np.ndarray) -> np.ndarray:
         return:
             (np.ndarray) of shape (H, W). dtype=np.bool
     """
-    # START YOUR CODE HERE ### (You can change anything inside this block)
+    ### START YOUR CODE HERE ### (You can change anything inside this block)
     # You can also define other helper functions
+    im = skimage.morphology.binary_opening(im,skimage.morphology.disk(7))
+    im = skimage.morphology.binary_closing(im,skimage.morphology.disk(7))
     return im
     ### END YOUR CODE HERE ###
 

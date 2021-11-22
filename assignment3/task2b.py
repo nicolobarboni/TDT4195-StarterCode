@@ -17,12 +17,37 @@ def region_growing(im: np.ndarray, seed_points: list, T: int) -> np.ndarray:
         return:
             (np.ndarray) of shape (H, W). dtype=np.bool
     """
-    # START YOUR CODE HERE ### (You can change anything inside this block)
+    ### START YOUR CODE HERE ### (You can change anything inside this block)
     # You can also define other helper functions
     segmented = np.zeros_like(im).astype(bool)
     im = im.astype(float)
     for row, col in seed_points:
         segmented[row, col] = True
+        list_neighboors = [(row + 1, col),
+                           (row - 1, col),
+                           (row, col + 1),
+                           (row, col - 1),
+                           (row + 1, col + 1),
+                           (row + 1, col - 1),
+                           (row - 1, col + 1),
+                           (row - 1, col - 1)]
+        # print(list_neighboors)
+
+        while list_neighboors:
+            if abs(im[list_neighboors[0]] - im[row, col]) < T and not (segmented[list_neighboors[0]]):
+                segmented[list_neighboors[0]] = True
+                # print(list_neighboors[1][0])
+                new_neighboors = [(list_neighboors[0][0] + 1, list_neighboors[0][1]),
+                                  (list_neighboors[0][0] - 1, list_neighboors[0][1]),
+                                  (list_neighboors[0][0], list_neighboors[0][1] + 1),
+                                  (list_neighboors[0][0], list_neighboors[0][1] - 1),
+                                  (list_neighboors[0][0] + 1, list_neighboors[0][1] + 1),
+                                  (list_neighboors[0][0] + 1, list_neighboors[0][1] - 1),
+                                  (list_neighboors[0][0] - 1, list_neighboors[0][1] + 1),
+                                  (list_neighboors[0][0] - 1, list_neighboors[0][1] - 1)]
+                list_neighboors.extend(new_neighboors)
+            list_neighboors.pop(0)
+
     return segmented
     ### END YOUR CODE HERE ###
 
@@ -37,6 +62,8 @@ if __name__ == "__main__":
         [233, 436],  # Seed point 3
         [232, 417],  # Seed point 4
     ]
+
+
     intensity_threshold = 50
     segmented_image = region_growing(im, seed_points, intensity_threshold)
 
