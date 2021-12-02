@@ -3,14 +3,8 @@
   <component name="ChangeListManager">
     <list default="true" id="afef6698-5a3f-4228-bc1f-65011fb481a1" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assignment2/assignment_code.zip" beforeDir="false" afterPath="$PROJECT_DIR$/assignment2/assignment_code.zip" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assignment3/task2a.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/assignment3/task2a.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assignment3/task2b.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/assignment3/task2b.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assignment3/task2b.py" beforeDir="false" afterPath="$PROJECT_DIR$/assignment3/task2b.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assignment3/task3a.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/assignment3/task3a.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assignment3/task3a.py" beforeDir="false" afterPath="$PROJECT_DIR$/assignment3/task3a.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assignment3/task3b.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/assignment3/task3b.ipynb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/assignment3/task3c.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/assignment3/task3c.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assignment3/task3d.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/assignment3/task3d.ipynb" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -20,7 +14,7 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/assignment3/task3c.ipynb">
           <provider selected="true" editor-type-id="ipnb-editor">
             <state>
@@ -30,7 +24,40 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/assignment3/task3b.ipynb">
+        <entry file="file://$PROJECT_DIR$/assignment3/task3d.ipynb">
+          <provider selected="true" editor-type-id="ipnb-editor">
+            <state>
+              <selected id="2" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/assignment3/create_submission_zip.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="165">
+              <caret line="11" column="77" lean-forward="true" selection-start-line="11" selection-start-column="77" selection-end-line="11" selection-end-column="77" />
+              <folding>
+                <element signature="e#0#9#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/assignment3/task2a.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="285">
+              <caret line="22" column="30" selection-start-line="22" selection-start-column="30" selection-end-line="22" selection-end-column="30" />
+              <folding>
+                <element signature="e#0#18#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/assignment3/task2b.ipynb">
           <provider selected="true" editor-type-id="ipnb-editor">
             <state>
               <selected id="1" />
@@ -84,7 +111,9 @@
         <option value="$PROJECT_DIR$/assignment3/task3a.ipynb" />
         <option value="$PROJECT_DIR$/assignment3/task3a.py" />
         <option value="$PROJECT_DIR$/assignment3/task3b.ipynb" />
+        <option value="$PROJECT_DIR$/assignment3/task3d.ipynb" />
         <option value="$PROJECT_DIR$/assignment3/task3c.ipynb" />
+        <option value="$PROJECT_DIR$/assignment3/create_submission_zip.py" />
       </list>
     </option>
   </component>
@@ -109,12 +138,6 @@
               <item name="TDT4195-StarterCode" type="b2602c69:ProjectViewProjectNode" />
               <item name="TDT4195-StarterCode" type="462c0819:PsiDirectoryNode" />
               <item name="assignment3" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="TDT4195-StarterCode" type="b2602c69:ProjectViewProjectNode" />
-              <item name="TDT4195-StarterCode" type="462c0819:PsiDirectoryNode" />
-              <item name="assignment3" type="462c0819:PsiDirectoryNode" />
-              <item name="image_processed" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -154,7 +177,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Jupyter Notebook.assignment3">
+  <component name="RunManager" selected="Python.create_submission_zip_3">
     <configuration name="TDT4195-StarterCode" type="JupiterNotebook" factoryName="Jupyter Notebook">
       <module name="TDT4195-StarterCode" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -240,6 +263,27 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/assignment2/create_submission_zip.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="create_submission_zip_3" type="PythonConfigurationType" factoryName="Python">
+      <module name="TDT4195-StarterCode" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="$USER_HOME$/opt/anaconda3/envs/tdt4195/bin/python" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/assignment3" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/assignment3/create_submission_zip.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -504,6 +548,7 @@
       <item itemvalue="Jupyter Notebook.TDT4195-StarterCode" />
       <item itemvalue="Jupyter Notebook.assignment3" />
       <item itemvalue="Jupyter Notebook.assignment2" />
+      <item itemvalue="Python.create_submission_zip_3" />
       <item itemvalue="Python.task2b_3" />
       <item itemvalue="Python.create_submission_zip" />
       <item itemvalue="Python.task4a" />
@@ -545,7 +590,14 @@
       <option name="project" value="LOCAL" />
       <updated>1637575460026</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="change">
+      <created>1637599639766</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1637599639766</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TodoView">
@@ -559,13 +611,14 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="25" width="1440" height="875" extended-state="0" />
+    <editor active="true" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.4968017" visible="true" weight="0.17547569" />
       <window_info id="Structure" order="1" sideWeight="0.50319827" side_tool="true" weight="0.21634954" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49682876" visible="true" weight="0.22265123" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49682876" weight="0.22265123" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.38223937" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -584,18 +637,6 @@
     <option name="LAST_COMMIT_MESSAGE" value="change" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/assignment1/image_solutions/weights_8.jpg">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/assignment1/image_solutions/weights_9.jpg">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/assignment1/image_solutions/task_4a_2.png">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/assignment1/image_solutions/task_4a.png">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
     <entry file="file://$PROJECT_DIR$/assignment1/image_solutions/task_4a_norm_1.png">
       <provider selected="true" editor-type-id="images" />
     </entry>
@@ -783,16 +824,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/assignment3/task2a.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="308">
-          <caret line="22" column="30" selection-start-line="22" selection-start-column="30" selection-end-line="22" selection-end-column="30" />
-          <folding>
-            <element signature="e#0#18#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/assignment3/image_processed/polymercell-segmented.png">
       <provider selected="true" editor-type-id="images" />
     </entry>
@@ -809,9 +840,6 @@
     <entry file="file://$PROJECT_DIR$/assignment3/image_processed/defective-weld-segmented.png">
       <provider selected="true" editor-type-id="images" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/assignment3/images/balls-with-reflections.png">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
     <entry file="file://$PROJECT_DIR$/assignment3/images/lincoln.png">
       <provider selected="true" editor-type-id="images" />
     </entry>
@@ -823,13 +851,6 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/assignment3/images/polymercell.png">
       <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/assignment3/task2b.ipynb">
-      <provider selected="true" editor-type-id="ipnb-editor">
-        <state>
-          <selected id="3" />
-        </state>
-      </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/assignment3/image_processed/noisy-filtered.png">
       <provider selected="true" editor-type-id="images" />
@@ -883,10 +904,53 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/assignment3/image_processed/lincoln-boundary.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assignment3/images/balls-with-reflections.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assignment3/image_processed/balls-with-reflections-filled.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
     <entry file="file://$PROJECT_DIR$/assignment3/task3c.ipynb">
       <provider selected="true" editor-type-id="ipnb-editor">
         <state>
           <selected id="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assignment3/task3d.ipynb">
+      <provider selected="true" editor-type-id="ipnb-editor">
+        <state>
+          <selected id="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assignment3/create_submission_zip.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="11" column="77" lean-forward="true" selection-start-line="11" selection-start-column="77" selection-end-line="11" selection-end-column="77" />
+          <folding>
+            <element signature="e#0#9#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assignment3/task2a.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="285">
+          <caret line="22" column="30" selection-start-line="22" selection-start-column="30" selection-end-line="22" selection-end-column="30" />
+          <folding>
+            <element signature="e#0#18#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assignment3/task2b.ipynb">
+      <provider selected="true" editor-type-id="ipnb-editor">
+        <state>
+          <selected id="1" />
         </state>
       </provider>
     </entry>
